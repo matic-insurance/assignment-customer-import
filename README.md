@@ -14,7 +14,7 @@ The system is available by: https://testtaskmatic.herokuapp.com
 * Use **Rspec** framework in your solution
 
 ### Recommendations
-* You may use any GEMS that you like
+* You may use any gems that you like
 * You could write API and UI tests
 * Not necessary to cover all possible cases, just decide which are the most important
 
