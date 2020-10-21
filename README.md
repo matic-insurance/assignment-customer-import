@@ -39,6 +39,13 @@ POST /api/imports/<import_id>/start
 GET /api/imports/<import_id>
 ```
 
+**Update import:**
+```
+PUT /api/imports/<import_id>
+content-type: multipart/form-data
+import[title]=MyImport
+```
+
 **Get customers:**
 ```
 GET /api/imports/<import_id>/customers
